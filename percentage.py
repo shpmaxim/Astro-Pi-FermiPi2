@@ -123,7 +123,7 @@ def main():
     another_btn = tk.Button(window, text = 'Analyse another photo', command = another, width = 15)
     another_btn.grid(row = 11, column = 0, columnspan=3)
 
-    # opening the orignal image for optical (user) comparison and result validation
+    # opening the orignal image for user comparison and result validation
     orig_img.show()
 
 main()
