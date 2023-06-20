@@ -4,7 +4,9 @@ This is the repository for additional analysis software written by the FermiPi2 
 
 For simplicity we decided not to build the scripts, leaving them in .py format for easier understanding. 
 
-Before running the program be sure to download and unzip the _res_ folder. It should be placed in the same directory in which the programs will be executed.
+Before running the program make sure to download and unzip the _res_ folder. It should be placed in the same directory in which the programs will be executed.
+To properly execute and test _percentage.py_ please use the photos taken by the Raspberry HQ Camera during the runtime of our experiment. If needed here's a link to a Google Drive folder with the .zip file containing all the photos (_north_queensland.jpg_ and _south_queensland.jpg_ too): 
+https://drive.google.com/drive/folders/1cqgH13ueihHxoCxQc6N0rvUC-FA2rbyI?usp=sharing
 
 **A few technical details**:
 
