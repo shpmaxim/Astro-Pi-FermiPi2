@@ -1,6 +1,6 @@
 """
 version adapted for: north Queensland, Australia
-photo: 3656697425_a84ca88e17_o.jpg
+photo: north_queenslans.jpg
 June 24, 2009
 """
 
