@@ -1,6 +1,6 @@
 """
 version adapted for: south Queensland, Australia
-photo: Australia_satellite_plane.jpg
+photo: south_queensland.jpg
 year 2004 
 """
 
