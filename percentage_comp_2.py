@@ -1,5 +1,5 @@
 """
-version adapted for: south Queensland, Australia
+version adapted for: south Queensland; Australia
 photo: south_queensland.jpg
 year 2004 
 """
