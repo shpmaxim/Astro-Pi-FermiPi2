@@ -4,6 +4,8 @@ This is the repository for additional analysis software written by the FermiPi2 
 
 For simplicity we decided not to build the scripts, leaving them in .py format for easier understanding. 
 
+Before running the program be sure to download and unzip the _res_ folder. It should be placed in the same directory in which the programs will be executed.
+
 **A few technical details**:
 
 - Comparison photos credits:
@@ -17,5 +19,5 @@ For simplicity we decided not to build the scripts, leaving them in .py format f
     - each image is resized (x0.3) to optimize analysis time without sacrificing too much precision
     - the resized image is then put through masks derived from the initially set RGB color ranges
     - after printing the results, the program gives the choice to save the results and/or analyze another photo
-- Analysis results are saved in the _analysis_data_ folder that the program creates in the res foldersd.
-- When opening the program more than one time it is normal to see the _[Errno 17] File exists_ error in the console, since the folder in which the analysis results can be saved already exists.
+- Analysis results are saved in the _analysis_data_ folder that the program creates in the res folder.
+- When opening the program more than one time it is normal to see the _[Errno 17] File exists_ error in the console since the folder in which the analysis results can be saved already exists.
