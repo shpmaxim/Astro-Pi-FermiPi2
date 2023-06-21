@@ -18,6 +18,7 @@ https://drive.google.com/drive/folders/1cqgH13ueihHxoCxQc6N0rvUC-FA2rbyI?usp=sha
 - As briefly explained in the final report, this code was written in second place after receiving our primary analysis data. We concluded that our results not only were insufficient in terms of data extent provided (we only had information about the predominant color in each photo without a percentage value) but also were not accurate enough to provide any value to our experiment. Hence, we decided to simplify the analysis algorithms by not implying the use of AI models.
 
 **Program structure**:
+
     - the user chooses an image through a system file dialog  
     - each image is resized (x0.3) to optimize analysis time without sacrificing too much precision
     - the resized image is then put through masks derived from the initially set RGB color ranges
