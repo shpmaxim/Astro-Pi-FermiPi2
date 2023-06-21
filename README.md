@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/1cqgH13ueihHxoCxQc6N0rvUC-FA2rbyI?usp=sha
 - When opening the program more than one time it is normal to see the _[Errno 17] File exists_ error in the console since the folder in which the analysis results can be saved already exists. Don't mind the error, it doesn't affect the functionality of the program.
 
 
-**How to analyse a photo:**
+**How to analyze a photo:**
 - open and execute the .py file of your choice
 - select and open the photo you want to analyze from the file dialog
 - wait for a few seconds as the program runs the analysis and opens the original photo
